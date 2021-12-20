@@ -4,7 +4,8 @@ https://github.com/alexlomu/Estrella
 
 Para esta entrega hemos tenido que hacer un programa que dibujará usando turtle, una estrella del número de puntas que se introduzca.
 
-El diagrama de flujo es el siguiente:![figma](https://user-images.githubusercontent.com/91721507/146833611-f7152f67-9a52-41ad-9033-c30b49816b9c.PNG)
+El diagrama de flujo es el siguiente:
+![figma](https://user-images.githubusercontent.com/91721507/146833611-f7152f67-9a52-41ad-9033-c30b49816b9c.PNG)
 
 El código es el siguiente:
 ```
