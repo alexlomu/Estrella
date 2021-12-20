@@ -1,10 +1,13 @@
 # Estrella
 Mi dirección de GitHub para este repositorio es: [GitHub](https://github.com/alexlomu/Estrella)
 https://github.com/alexlomu/Estrella
+
 Para esta entrega hemos tenido que hacer un programa que dibujará usando turtle, una estrella del número de puntas que se introduzca.
+
 El diagrama de flujo es el siguiente:![figma](https://user-images.githubusercontent.com/91721507/146833611-f7152f67-9a52-41ad-9033-c30b49816b9c.PNG)
+
 El código es el siguiente:
-´´´
+```
 import turtle #Importamos turtle
 turtle.fillcolor("green") #Definimos el color con el que se dibujará la estrella
 turtle.begin_fill()  #Empieza el dibujo          
@@ -26,4 +29,4 @@ elif puntas%2 == 0: #Si el número de puntas es par
         turtle.right(720/puntas)
         n += 1  
     turtle.end_fill()  #Se rellena el dibujo trazado
-´´´
+```
